@@ -1,5 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm Nazmus Sakib Tunan<br>🔭 I’m currently working on building dynamic web applications using React<br>🤝 I’m looking to collaborate on frontend and full-stack projects<br>🆘 I’m looking for help with advanced backend development & system design<br>🌱 I’m currently learning Full Stack Development (Node.js, MongoDB)<br>💬 Ask me about React, JavaScript, Tailwind CSS, and API integration<br>⚡ Fun fact: I love turning ideas into real-world web applications 🚀
+![Location](https://img.shields.io/badge/Location-Dhaka,%20Bangladesh-green?style=for-the-badge&logo=googlemaps)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hi+I'm+Nazmus+Sakib+Tunan;Frontend+Developer;React+Lover;Always+Learning+New+Things" />
