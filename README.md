@@ -3,7 +3,8 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hi+I'm+Nazmus+Sakib+Tunan;Frontend+Developer;React+Lover;Always+Learning+New+Things" />
-</p>
+</p><img width="1376" height="768" alt="github" src="https://github.com/user-attachments/assets/ab07d04e-5d0a-4749-be91-9bc8a09107c1" />
+
 
 
 ## 🌐 Socials:
